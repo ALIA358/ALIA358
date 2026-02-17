@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Alia Mughal 👋
+🎓 Computer Science Student  
+💻 Passionate about Software Development, UI/UX Design, and Database Systems  
+🚀 Goal: To become a professional Software Developer and work on real-world applications  
+## 🔹 Skills
+• Programming Languages: Java, C++, C, SQL  
+• Database: MySQL  
+• UI/UX Design: Figma  
+• Concepts: OOP, Data Structures, Database Design  
+• Tools: GitHub, NetBeans, VS Code, Figma  
+## 🔹 Projects
+### 📱 SilentBridge – Deaf Accessibility App (UI/UX)
+• Designed complete mobile app prototype in Figma  
+• Includes Login, Signup, Video Content, Tap to Speak, Settings  
+• Focused on accessibility for deaf users  
+### 📊 Database Projects
+• Marketplace Database System  
+• Habit Tracker with MySQL  
+### 💻 Programming Projects
+• Java GUI Applications  
+• OOP Lab Tasks  
+• Data Structure Implementations  
+## 🔹 What I'm currently working on
+• Mobile App UI/UX Design  
+• Java + MySQL Applications  
+• Improving GitHub Portfolio  
+## 🔹 Contact
+GitHub: https://github.com/ALIA358
 
-<!--
-**ALIA358/ALIA358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thank you for visiting my profile!
